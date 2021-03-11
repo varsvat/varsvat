@@ -1,5 +1,4 @@
 <p align="center"><img src="https://github.com/varsvat/varsvat/blob/main/helloworldimage/46479049-d8a9c400-c80b-11e8-92a1-89fc10701f4a.jpg" alt="Hello world"></p>
-<br>
 <h1 align="center">Hello, Folks! My name is Varun Jain. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <p align="center">
 <a href="https://github.com/varsvat"><img height="30" src="https://github.com/varsvat/varsvat/blob/main/icon/github.svg"></a>&nbsp;&nbsp;
@@ -12,8 +11,6 @@
  I mostly like to work in the field of Mobile Application development, having experience in native Android development with kotlin, along with modern android development techniques and Flutter using Dart.
 </p>
 <br>
-<br>
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/varsvat/">
