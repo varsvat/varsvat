@@ -8,7 +8,7 @@
 <br>
 <p align="center">I am a passionate self-taught Software Developer, having experience in working with Android, Backend Development. Currently, I am currently working in <a href="https://binarynumbers.io/">Binary Numbers IT Zone LLP</a> as a Junior Software Developer. I am also a OpenSouce contributor to the <a href="https://mifos.org/">Mifos</a> organization. Community is :heart:.  
 <br>
- I mostly like to work in the field of Mobile Application development, having experience in native Android development with kotlin, along with modern android development techniques and Flutter using Dart. I am currently working as a student App developer at <a href="https://binarynumbers.io/">Students' Union Tech-Team BITS Pilani</a>
+ I mostly like to work in the field of Mobile Application development, having experience in native Android development with kotlin, along with modern android development techniques and Flutter using Dart. I am currently working as a student App developer at <a href="https://bits-sutechteam.org/">Students' Union Tech-Team BITS Pilani</a>
 </p>
 <br>
 
