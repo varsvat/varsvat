@@ -1,9 +1,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/22680912/46479049-d8a9c400-c80b-11e8-92a1-89fc10701f4a.jpg" alt="Hello world"></p>
 <h1 align="center">Hello, Folks! My name is Varun Jain. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<p align="center">I am a passionate self-taught Software Developer, having experience in working with Android, Backend. Currently, I am working in Binary Numbers IT Zone LLP as a Junior Software Developer. I am also a OpenSouce contributor to the [Mifos](https://mifos.org/) organization. Community is :heart:.  
+I am a passionate self-taught Software Developer, having experience in working with Android, Backend. Currently, I am working in Binary Numbers IT Zone LLP as a Junior Software Developer. I am also a OpenSouce contributor to the [Mifos](https://mifos.org/) organization. Community is :heart:.  
 <br />
  I mostly like to work in the field of Mobile Application development, having experience in native Android development woth kotlin and Flutter.
-</p>
 
 
 
