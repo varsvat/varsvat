@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/22680912/46479049-d8a9c400-c80b-11e8-92a1-89fc10701f4a.jpg" alt="Hello world"></p>
+<p align="center"><img src="https://github.com/varsvat/varsvat/blob/main/helloworldimage/46479049-d8a9c400-c80b-11e8-92a1-89fc10701f4a.jpg" alt="Hello world"></p>
 <h1 align="center">Hello, Folks! My name is Varun Jain. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <p align="center">
 <a href="https://github.com/varsvat"><img height="30" src="https://github.com/varsvat/varsvat/blob/main/icon/github.svg"></a>&nbsp;&nbsp;
