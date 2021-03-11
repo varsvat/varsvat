@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/the-varun-jain/"><img height="30" src="https://github.com/varsvat/varsvat/blob/main/icon/linkedin.svg"></a>&nbsp;&nbsp;
 <a href = "mailto: varunsanjeevjain@gmail.com"><img height="30" src="https://github.com/varsvat/varsvat/blob/main/icon/gmail.svg"></a>&nbsp;&nbsp;
 </p>
-<p align="center">I am a passionate self-taught Software Developer, having experience in working with Android, Backend. Currently, I am currently working in Binary Numbers IT Zone LLP as a Junior Software Developer. I am also a OpenSouce contributor to the <a href="https://mifos.org/">Mifos</a> organization. Community is :heart:.  
+<p align="center">I am a passionate self-taught Software Developer, having experience in working with Android, Backend. Currently, I am currently working in <a href="https://binarynumbers.io/">Binary Numbers IT Zone LLP</a> as a Junior Software Developer. I am also a OpenSouce contributor to the <a href="https://mifos.org/">Mifos</a> organization. Community is :heart:.  
 <br>
  I mostly like to work in the field of Mobile Application development, having experience in native Android development with kotlin, along with modern android development techniques and Flutter using Dart.
 </p>
