@@ -19,7 +19,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=varsvat&theme=algolia&show_icons=true&line_height=27&count_private=true&" alt="Varun's GitHub Stats" />
 </a>
 <a href="https://github.com/varsvat/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsvat&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsvat&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsvat&hide=java,html&theme=algolia" alt="Varun's Github Stats" />
+
 </a>
 
 
