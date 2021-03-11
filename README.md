@@ -9,7 +9,13 @@
 <br>
  I mostly like to work in the field of Mobile Application development, having experience in native Android development with kotlin, along with modern android development techniques and Flutter using Dart.
 </p>
-
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/varsvat/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=varsvat&theme=algolia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Varun's GitHub Stats" />
+</a>
+<a href="https://github.com/varsvat/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsvat&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 
