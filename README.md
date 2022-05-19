@@ -15,9 +15,6 @@
 ## &#x1f4c8; GitHub Stats
 
 
-[![Github](https://img.shields.io/github/followers/varsvat?label=Follow&style=social)](https://github.com/varsvat)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=varsvat.varsvat)
-
 <p align="center">
 <a href="https://github.com/varsvat?tab=repositories" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=varsvat&theme=algolia&show_icons=true&line_height=27&count_private=true&" alt="Varun's GitHub Stats" />
