@@ -15,8 +15,8 @@
 ## &#x1f4c8; GitHub Stats
 
 
-[![Github](https://img.shields.io/github/followers/sushant-varanasi?label=Follow&style=social)](https://github.com/sushant-varanasi)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sushant-varanasi.sushant-varanasi)
+[![Github](https://img.shields.io/github/followers/varsvat?label=Follow&style=social)](https://github.com/varsvat)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=varsvat.varsvat)
 
 <p align="center">
 <a href="https://github.com/varsvat?tab=repositories" target="_blank">
