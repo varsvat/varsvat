@@ -22,6 +22,8 @@
 <a href="https://github.com/varsvat?tab=repositories" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsvat&hide=java,html&theme=algolia" alt="Varun's Github Stats" />
 </a>
+<br>
+ <img src="https://activity-graph.herokuapp.com/graph?username=varsvat&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
