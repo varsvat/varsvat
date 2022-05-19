@@ -19,6 +19,7 @@
 <a href="https://github.com/varsvat?tab=repositories" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=varsvat&theme=algolia&show_icons=true&line_height=27&count_private=true&" alt="Varun's GitHub Stats" />
 </a>
+ <br><br>
 <a href="https://github.com/varsvat?tab=repositories" target="_blank">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsvat&hide=java,html&theme=algolia" alt="Varun's Github Stats" />
 </a>
